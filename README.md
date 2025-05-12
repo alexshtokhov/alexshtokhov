@@ -1,11 +1,3 @@
-<h1 align="center">Hi! I'm Alex 👋</h1>
-
-<p align="center">
-  A passionate <strong>Frontend Developer</strong> with 2+ years of experience in building modern, responsive, and dynamic web applications.
-</p>
-
----
-
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
