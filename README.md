@@ -30,7 +30,7 @@
 
 ---
 
-### 🎓 Образование
+### 🎓 Education
 
 - 🎓 **Taganrog Aviation College named after V.M. Petlyakov**  
   Bachelor’s Degree in Mechanical Engineering and Computer Science Technology  
@@ -42,14 +42,14 @@
 
 ---
 
-### 🌍 Языки
+### 🌍 Languages
 
 - 🇷🇺 Russian — Native  
 - 🇬🇧 English — Upper-Intermediate (B2–C1)
 
 ---
 
-### 📊 GitHub Статистика
+### 📊 GitHub stats
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexshtokhov&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshtokhov&layout=compact&theme=radical)
