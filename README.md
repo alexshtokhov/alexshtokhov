@@ -30,7 +30,6 @@
 ### 📍 Location & Contacts
 
 - 📍 Serbia, Belgrade  
-- 📞 +381 66-552-26-97  
 - 📬 alex.shtokhov@gmail.com  
 - 💬 Telegram: [@Alex_shtokhov](https://t.me/Alex_shtokhov)
 
