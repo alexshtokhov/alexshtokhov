@@ -45,7 +45,7 @@
 ### 🌍 Languages
 
 - 🇷🇺 Russian — Native  
-- 🇬🇧 English — Upper-Intermediate (B2–C1)
+- 🇺🇸 English — Upper-Intermediate (B2–C1)
 
 ---
 
